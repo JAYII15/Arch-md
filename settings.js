@@ -12,7 +12,7 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
+global.owner = "447849359638"
 global.botname = "αrch md"
 global.ownername = "" //set bot owner name here 
 global.simbol = "♘"
